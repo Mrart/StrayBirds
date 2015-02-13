@@ -1,64 +1,95 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
+<!doctype html>
+<html lang="en">
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>前端”魏翼超然“web App轮播触摸屏滑动切换图片展示</title>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="initial-scale=1">
+	<title>谢谢你的陪伴</title>
+
+	<link rel="stylesheet" href="css/idangerous.swiper.css">
+	<link rel="stylesheet" href="css/normalize.css">
+	<link rel="stylesheet" href="css/gallery-app.css">
 </head>
-<link rel="stylesheet" type="text/css" href="css/swipe.css">
 <body>
-<div class="addWrap">
-  <div class="swipe" id="mySwipe">
-    <div class="swipe-wrap">
-      <div><a href="javascript:;"><img class="img-responsive" src="images/0.jpg"/></a></div>
-      <div><a href="javascript:;"><img class="img-responsive" src="images/2.jpg"/></a></div>
-      <div><a href="javascript:;"><img class="img-responsive" src="images/1.jpg"/></a></div>
-      <div><a href="javascript:;"><img class="img-responsive" src="images/3.jpg"/></a></div>
-      <div><a href="javascript:;"><img class="img-responsive" src="images/4.jpg"/></a></div>
-      <div><a href="javascript:;"><img class="img-responsive" src="images/5.jpg"/></a></div>      
-      <div><a href="javascript:;"><img class="img-responsive" src="images/6.jpg"/></a></div>
-      <div><a href="javascript:;"><img class="img-responsive" src="images/7.jpg"/></a></div>
-      <div><a href="javascript:;"><img class="img-responsive" src="images/8.jpg"/></a></div>
-      <div><a href="javascript:;"><img class="img-responsive" src="images/9.jpg"/></a></div>
-      <div><a href="javascript:;"><img class="img-responsive" src="images/10.jpg"/></a></div>
-      <div><a href="javascript:;"><img class="img-responsive" src="images/11.jpg"/></a></div>
-      <div><a href="javascript:;"><img class="img-responsive" src="images/12.jpg"/></a></div>
-      <div><a href="javascript:;"><img class="img-responsive" src="images/13.jpg"/></a></div>
-
-    </div>
-  </div>
-  <ul id="position">
-    <li class="cur"></li>
-    <li class=""></li>
-    <li class=""></li>
-    <li class=""></li>
-    <li class=""></li>
-    <li class=""></li>
-    <li class=""></li>
-    <li class=""></li>
-    <li class=""></li>
-    <li class=""></li>
-    <li class=""></li>
-    <li class=""></li>
-    <li class=""></li>
-    <li class=""></li>
-
-  </ul>
-</div>
-<script src="js/swipe.js"></script> 
-<script type="text/javascript">
-var bullets = document.getElementById('position').getElementsByTagName('li');
-var banner = Swipe(document.getElementById('mySwipe'), {
-	auto: 2000,
-	continuous: true,
-	disableScroll:false,
-	callback: function(pos) {
-		var i = bullets.length;
-		while (i--) {
-		  bullets[i].className = ' ';
-		}
-		bullets[pos].className = 'cur';
-	}
-});
-</script>
+	<div class="swiper-container">
+		<div class="pagination"></div>
+		<div class="swiper-wrapper" style="width:2424px;">
+			<div class="swiper-slide">
+				<div class="inner">
+					<img src="img/0.jpg" alt="">
+				</div>
+			</div>
+			<div class="swiper-slide">
+				<div class="inner">
+					<img src="img/1.jpg" alt="">
+				</div>
+			</div>
+			<div class="swiper-slide">
+				<div class="inner">
+					<img src="img/2.jpg" alt="">
+				</div>
+			</div>
+			<div class="swiper-slide">
+				<div class="inner">
+					<img src="img/3.jpg" alt="">
+				</div>
+			</div>
+			<div class="swiper-slide">
+				<div class="inner">
+					<img src="img/4.jpg" alt="">
+				</div>
+			</div>
+			<div class="swiper-slide">
+				<div class="inner">
+					<img src="img/5.jpg" alt="">
+				</div>
+			</div>
+			<div class="swiper-slide">
+				<div class="inner">
+					<img src="img/6.jpg" alt="">
+				</div>
+			</div>
+			<div class="swiper-slide">
+				<div class="inner">
+					<img src="img/7.jpg" alt="">
+				</div>
+			</div>
+			<div class="swiper-slide">
+				<div class="inner">
+					<img src="img/8.jpg" alt="">
+				</div>
+			</div>
+			<div class="swiper-slide">
+				<div class="inner">
+					<img src="img/9.jpg" alt="">
+				</div>
+			</div>
+			<div class="swiper-slide">
+				<div class="inner">
+					<img src="img/10.jpg" alt="">
+				</div>
+			</div>
+			<div class="swiper-slide">
+				<div class="inner">
+					<img src="img/11.jpg" alt="">
+				</div>
+			</div>
+			<div class="swiper-slide">
+				<div class="inner">
+					<img src="img/12.jpg" alt="">
+				</div>
+			</div>
+			<div class="swiper-slide">
+				<div class="inner">
+					<img src="img/13.jpg" alt="">
+				</div>
+			</div>
+		
+		
+		</div>
+	</div>
+	<script src="js/jquery.min.js"></script>
+	<!-- Don't forget to get the latest Swiper and scrollbar version here-->
+	<script src="js/idangerous.swiper-2.0.min.js"></script>
+	<script src="js/gallery-app.js"></script>
 </body>
 </html>
