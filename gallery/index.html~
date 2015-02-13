@@ -15,17 +15,17 @@
 		<div class="swiper-wrapper" style="width:2424px;">
 			<div class="swiper-slide">
 				<div class="inner">
+					<img src="img/gallery-3.jpg" alt="">
+				</div>
+			</div>
+			<div class="swiper-slide">
+				<div class="inner">
 					<img src="img/gallery-1.jpg" alt="">
 				</div>
 			</div>
 			<div class="swiper-slide">
 				<div class="inner">
 					<img src="img/gallery-2.jpg" alt="">
-				</div>
-			</div>
-			<div class="swiper-slide">
-				<div class="inner">
-					<img src="img/gallery-3.jpg" alt="">
 				</div>
 			</div>
 			<div class="swiper-slide">
@@ -85,14 +85,10 @@
 			</div>
 			<div class="swiper-slide">
 				<div class="inner">
-					<img src="img/gallery-14.jpg" alt="">
-				</div>
-			</div>
-			<div class="swiper-slide">
-				<div class="inner">
 					<img src="img/gallery-15.jpg" alt="">
 				</div>
 			</div>
+		
 		</div>
 	</div>
 	<script src="js/jquery.min.js"></script>
