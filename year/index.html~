@@ -1,0 +1,213 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="initial-scale=1">
+	<title>我爱你,苏小研</title>
+
+	<link rel="stylesheet" href="css/idangerous.swiper.css">
+	<link rel="stylesheet" href="css/normalize.css">
+	<link rel="stylesheet" href="css/gallery-app.css">
+</head>
+<body>
+	<div class="swiper-container">
+		<div class="pagination"></div>
+		<div class="swiper-wrapper" style="width:2424px;">
+			<div class="swiper-slide">
+				<div class="inner">
+					<img src="img/0.jpg" alt="">
+				</div>
+			</div>
+			<div class="swiper-slide">
+				<div class="inner">
+					<img src="img/1.jpg" alt="">
+				</div>
+			</div>
+			<div class="swiper-slide">
+				<div class="inner">
+					<img src="img/2.jpg" alt="">
+				</div>
+			</div>
+			<div class="swiper-slide">
+				<div class="inner">
+					<img src="img/3.jpg" alt="">
+				</div>
+			</div>
+			<div class="swiper-slide">
+				<div class="inner">
+					<img src="img/4.jpg" alt="">
+				</div>
+			</div>
+			<div class="swiper-slide">
+				<div class="inner">
+					<img src="img/5.jpg" alt="">
+				</div>
+			</div>
+			<div class="swiper-slide">
+				<div class="inner">
+					<img src="img/6.jpg" alt="">
+				</div>
+			</div>
+			<div class="swiper-slide">
+				<div class="inner">
+					<img src="img/7.jpg" alt="">
+				</div>
+			</div>
+			<div class="swiper-slide">
+				<div class="inner">
+					<img src="img/8.jpg" alt="">
+				</div>
+			</div>
+			<div class="swiper-slide">
+				<div class="inner">
+					<img src="img/9.jpg" alt="">
+				</div>
+			</div>
+			<div class="swiper-slide">
+				<div class="inner">
+					<img src="img/10.jpg" alt="">
+				</div>
+			</div>
+			<div class="swiper-slide">
+				<div class="inner">
+					<img src="img/12.jpg" alt="">
+				</div>
+			</div>
+			<div class="swiper-slide">
+				<div class="inner">
+					<img src="img/13.jpg" alt="">
+				</div>
+			</div>			<div class="swiper-slide">
+				<div class="inner">
+					<img src="img/14.jpg" alt="">
+				</div>
+			</div>			<div class="swiper-slide">
+				<div class="inner">
+					<img src="img/15.jpg" alt="">
+				</div>
+			</div>			<div class="swiper-slide">
+				<div class="inner">
+					<img src="img/16.jpg" alt="">
+				</div>
+			</div>			<div class="swiper-slide">
+				<div class="inner">
+					<img src="img/17.jpg" alt="">
+				</div>
+			</div>			<div class="swiper-slide">
+				<div class="inner">
+					<img src="img/18.jpg" alt="">
+				</div>
+			</div>			<div class="swiper-slide">
+				<div class="inner">
+					<img src="img/19.jpg" alt="">
+				</div>
+			</div>			<div class="swiper-slide">
+				<div class="inner">
+					<img src="img/20.jpg" alt="">
+				</div>
+			</div>			<div class="swiper-slide">
+				<div class="inner">
+					<img src="img/21.jpg" alt="">
+				</div>
+			</div>			<div class="swiper-slide">
+				<div class="inner">
+					<img src="img/22.jpg" alt="">
+				</div>
+			</div>			<div class="swiper-slide">
+				<div class="inner">
+					<img src="img/23.jpg" alt="">
+				</div>
+			</div>			<div class="swiper-slide">
+				<div class="inner">
+					<img src="img/24.jpg" alt="">
+				</div>
+			</div>			<div class="swiper-slide">
+				<div class="inner">
+					<img src="img/25.jpg" alt="">
+				</div>
+			</div>			<div class="swiper-slide">
+				<div class="inner">
+					<img src="img/26.jpg" alt="">
+				</div>
+			</div>			<div class="swiper-slide">
+				<div class="inner">
+					<img src="img/27.jpg" alt="">
+				</div>
+			</div>			<div class="swiper-slide">
+				<div class="inner">
+					<img src="img/28.jpg" alt="">
+				</div>
+			</div>			<div class="swiper-slide">
+				<div class="inner">
+					<img src="img/29.jpg" alt="">
+				</div>
+			</div>			<div class="swiper-slide">
+				<div class="inner">
+					<img src="img/12.jpg" alt="">
+				</div>
+			</div>			<div class="swiper-slide">
+				<div class="inner">
+					<img src="img/30.jpg" alt="">
+				</div>
+			</div>			<div class="swiper-slide">
+				<div class="inner">
+					<img src="img/31.jpg" alt="">
+				</div>
+			</div>			<div class="swiper-slide">
+				<div class="inner">
+					<img src="img/32.jpg" alt="">
+				</div>
+			</div>			<div class="swiper-slide">
+				<div class="inner">
+					<img src="img/33.jpg" alt="">
+				</div>
+			</div>			<div class="swiper-slide">
+				<div class="inner">
+					<img src="img/34.jpg" alt="">
+				</div>
+			</div>			<div class="swiper-slide">
+				<div class="inner">
+					<img src="img/35.jpg" alt="">
+				</div>
+			</div>			<div class="swiper-slide">
+				<div class="inner">
+					<img src="img/36.jpg" alt="">
+				</div>
+			</div>			<div class="swiper-slide">
+				<div class="inner">
+					<img src="img/37.jpg" alt="">
+				</div>
+			</div>			<div class="swiper-slide">
+				<div class="inner">
+					<img src="img/38.jpg" alt="">
+				</div>
+			</div>			<div class="swiper-slide">
+				<div class="inner">
+					<img src="img/39.jpg" alt="">
+				</div>
+			</div>
+			<div class="swiper-slide">
+				<div class="inner">
+					<img src="img/40.jpg" alt="">
+				</div>
+			</div>
+			<!--<div class="swiper-slide">
+				<div class="inner">
+					<img src="img/12.jpg" alt="">
+				</div>
+			</div>-->
+			<div class="swiper-slide">
+				<div class="inner">
+					<img src="img/13.jpg" alt="">
+				</div>
+			</div>
+		
+		
+		</div>
+	</div>
+	<script src="js/jquery.min.js"></script>
+	<!-- Don't forget to get the latest Swiper and scrollbar version here-->
+	<script src="js/idangerous.swiper-2.0.min.js"></script>
+	<script src="js/gallery-app.js"></script>
+</body>
+</html>
